@@ -1,0 +1,23 @@
+{
+  "name": "test-dic-api",
+  "version": "1.0.0",
+  "description": "This is testing api for dictionary",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinikhil99/test-dic-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinikhil99/test-dic-api/issues"
+  },
+  "homepage": "https://github.com/srinikhil99/test-dic-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
